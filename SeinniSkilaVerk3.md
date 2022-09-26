@@ -17,3 +17,6 @@
 	git status - sýnir "working tree status"
 	git diff - sýnir breytingar á milli commit-a
 	git checkout - skiptir um branch eða endurheimtar "working tree" skrár
+
+## 4. 	Hvað er útgáfustýring (e.version control)? 
+		sýnir hvað forritið hefur breyst á milli útgáfna
