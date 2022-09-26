@@ -11,3 +11,9 @@
 	 git diff --staged - sýnir það sem þú hefur gert
 	 git diff commit1 commit2 - sýnir muninn á því sem þú gerðir í möppu1 við möppu2	
   
+## 3. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone - afritar directory og 
+	git log - sýnir loggið á git directory-inu
+	git status - sýnir "working tree status"
+	git diff - sýnir breytingar á milli commit-a
+	git checkout - skiptir um branch eða endurheimtar "working tree" skrár
