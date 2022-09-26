@@ -31,3 +31,17 @@
 		working directory er þar sem þú ert að vinna
 		Staging area er file sem inniheldur upplýsingar um það sem fer i næsta commit
 # Greinar Branches
+## 1.
+		.
+## 2.
+		.
+## 3.
+		.
+## 4.
+		.
+## 5.
+		.
+## 6.
+		.
+## 7.
+		.
