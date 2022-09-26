@@ -26,3 +26,8 @@
 
 ## 6.	Hversu oft telur þú að eigi að gera commit í verkefni
 		eins oft og maður þarf
+
+## 7.	Hvað er "Working directory"?" "Staging area"?" í GIT?
+		working directory er þar sem þú ert að vinna
+		Staging area er file sem inniheldur upplýsingar um það sem fer i næsta commit
+# Greinar Branches
