@@ -20,3 +20,7 @@
 
 ## 4. 	Hvað er útgáfustýring (e.version control)? 
 		sýnir hvað forritið hefur breyst á milli útgáfna
+
+## 5.	Hverjir eru helstu kostir við að nota GIT?
+		margir geta unnið að sama verkefni saman
+
