@@ -24,3 +24,5 @@
 ## 5.	Hverjir eru helstu kostir við að nota GIT?
 		margir geta unnið að sama verkefni saman
 
+## 6.	Hversu oft telur þú að eigi að gera commit í verkefni
+		eins oft og maður þarf
