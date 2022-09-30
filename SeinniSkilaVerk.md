@@ -37,3 +37,5 @@
 		839f5fa
 ## 3.   Skráðu síðan git checkout 1234567 (paste tölurnar 7)
 		git checkout 839f5fa
+## 4.   Búðu til nýja grein git branch [heiti greinar]
+		git branch grein
