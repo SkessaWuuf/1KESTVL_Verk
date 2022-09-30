@@ -33,6 +33,7 @@
 # Greinar Branches
 ## 1.   Skoðaðu allar færslurnar í skjalinu git log í Git Bash
 		git log
-##  2. Afritaðu (copy) talnarununa sem fylgir 5. svarinu (Fyrstu 7 tölurnar)
+##  2.  Afritaðu (copy) talnarununa sem fylgir 5. svarinu (Fyrstu 7 tölurnar)
 		839f5fa
-
+## 3.   Skráðu síðan git checkout 1234567 (paste tölurnar 7)
+		git checkout 839f5fa
