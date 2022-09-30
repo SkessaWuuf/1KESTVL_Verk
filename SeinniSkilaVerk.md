@@ -31,3 +31,6 @@
 		working directory er þar sem þú ert að vinna
 		Staging area er file sem inniheldur upplýsingar um það sem fer i næsta commit
 # Greinar Branches
+## 1.   Skoðaðu allar færslurnar í skjalinu git log í Git Bash
+		git log
+
