@@ -42,3 +42,5 @@
 ## 5.   Farðu yfir á greinina git checkout [heiti greinar] og bættu við eftirfarandi texta aftan við 5. svarið Hér get ég sagt mína skoðun á Git umsjónarkerfinu… þitt álit
 		
 		git checkout grein | echo Hér get ég sagt mína skoðun á Git umsjónarkerfinu… þitt álit > svar 5
+## 6.   Sendu nýju greinina yfir á GitHub
+		git push -u origin grein
