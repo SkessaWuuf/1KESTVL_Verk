@@ -44,3 +44,5 @@
 		git checkout grein | echo Hér get ég sagt mína skoðun á Git umsjónarkerfinu… þitt álit > svar 5
 ## 6.   Sendu nýju greinina yfir á GitHub
 		git push -u origin grein
+## 7.   Farðu síðan aftur á master
+		checkout master
