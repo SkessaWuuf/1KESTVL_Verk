@@ -39,3 +39,6 @@
 		git checkout 839f5fa
 ## 4.   Búðu til nýja grein git branch [heiti greinar]
 		git branch grein
+## 5.   Farðu yfir á greinina git checkout [heiti greinar] og bættu við eftirfarandi texta aftan við 5. svarið Hér get ég sagt mína skoðun á Git umsjónarkerfinu… þitt álit
+		
+		git checkout grein | echo Hér get ég sagt mína skoðun á Git umsjónarkerfinu… þitt álit > svar 5
