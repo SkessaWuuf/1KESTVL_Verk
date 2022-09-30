@@ -33,4 +33,6 @@
 # Greinar Branches
 ## 1.   Skoðaðu allar færslurnar í skjalinu git log í Git Bash
 		git log
+##  2. Afritaðu (copy) talnarununa sem fylgir 5. svarinu (Fyrstu 7 tölurnar)
+		839f5fa
 
